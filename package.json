@@ -8,8 +8,12 @@
     "setup": "node setup.js",
     "test:api": "node test-api.js"
   },
-  "engines": {
-    "node": ">=20"
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "pg": "^8.13.1"
   },
   "license": "ISC"
 }
