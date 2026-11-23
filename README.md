@@ -4,9 +4,9 @@ Independent Node.js + Express backend for the Campus Maintenance Requests system
 
 | | |
 |---|---|
-| Student name | [FELIX NKAKA] |
-| Student number | [202505808] (set it at the top of `server.js`) |
-| Course | ICT251 Introduction to Web Technologies, Mulungushi University |
+| Student name:FELIX NKAKA 
+| Student number:202505808
+| Course:ICT251 Introduction to Web Technologies, Mulungushi University |
 | Live base URL | [PASTE YOUR RENDER URL HERE] |
 
 ## Routes
