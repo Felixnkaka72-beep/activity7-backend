@@ -1,0 +1,15 @@
+{
+  "name": "activity7-backend",
+  "version": "1.0.0",
+  "description": "Campus Maintenance Requests API (ICT251 Activity 7)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "setup": "node setup.js",
+    "test:api": "node test-api.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "ISC"
+}
